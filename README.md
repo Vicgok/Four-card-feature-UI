@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View solution](https://your-solution-url.com)
-- Live Site URL: [Live website](https://your-live-site-url.com)
+- Solution URL: [View solution](https://www.frontendmentor.io/solutions/four-card-section-ui-Cc8kW_un4)
+- Live Site URL: [Live website](https://vicgok.github.io/Four-card-feature-UI/base.html)
 
 ## My process
 
